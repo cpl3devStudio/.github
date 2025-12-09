@@ -26,11 +26,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=cpl3devStudio&show_icons=true&theme=transparent&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=TechnicalDeveloper&show_icons=true&theme=transparent&hide_border=true"
     height="160"
   />
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cpl3devStudio&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TechnicalDeveloper&layout=compact&theme=transparent&hide_border=true"
     height="160"
   />
 </p>
@@ -40,7 +40,7 @@
 ## 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cpl3devStudio&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechnicalDeveloper&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -96,7 +96,7 @@
 ## 👁 Profile Views Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cpl3devStudio&label=Profile+Views&color=00f7ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=TechnicalDeveloper&label=Profile+Views&color=00f7ff&style=for-the-badge" />
 </p>
 
 ---
