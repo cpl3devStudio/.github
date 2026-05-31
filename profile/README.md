@@ -88,7 +88,7 @@
 
 ## 🌍 Public Links
 
-- 🌐 Website: https://shopcpl3studio.ru  
+- 🌐 Website: https://cpl3studio.online/  
 - 💬 Telegram: https://t.me/cpl3studio  
 
 ---
